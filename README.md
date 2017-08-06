@@ -1,24 +1,26 @@
+Ruby on Rails Sandbox
+=====================
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This is very fun
+----------------
 
+### Background
+Heroku app [link](https://ruby-on-rails-johnfaig.herokuapp.com)
+Cloud9 app [link](https://ruby-on-rails-johnfaig.c9users.io/invoices)
 
-Welcome to your Rails project on Cloud9 IDE!
+> ## A headine
+> **bold**
+> *italics*
 
-To get started, just do the following:
+bullets
+* stars
++ plus
+- minus
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
+numbers
+1. one
+2. two
+3. three
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Code
+This will be code `puts 'Hello World'`
